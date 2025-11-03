@@ -1,0 +1,3 @@
+cluster,avg_salary,job_count,avg_skills,industry_count,location_count,salary_score,demand_score,accessibility_score,industry_score,geographic_score,opportunity_index
+0,122647.27064676616,1005,3.4845771144278608,7,133,0.0,100.0,100.0,50,50,57.5
+1,123436.67939698492,995,5.503517587939698,7,133,100.0,0.0,0.0,50,50,42.5
