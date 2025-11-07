@@ -1,4 +1,5 @@
 # Assignment
+# Code Folder Introduction (first result)
 ### 1. `.vscode/`
 
 This folder contains specific configurations for the Visual Studio Code editor. It stores files for debugging (`launch.json`), C/C++ properties (`c_cpp_properties.json`), and workspace settings (`settings.json`) to ensure a consistent development environment.
