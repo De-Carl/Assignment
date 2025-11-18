@@ -14,8 +14,13 @@ st.set_page_config(
 )
 
 class CareerAdvisorWeb:
-    def __init__(self, artifacts_dir='artifacts'):
-        self.artifacts_dir = artifacts_dir
+    def __init__(self):
+        current_file_path = os.path.abspath(__file__)
+        
+        current_dir = os.path.dirname(current_file_path)
+        
+        self.artifacts_dir = os.path.join(current_dir, 'artifacts')
+        
         self.artifacts = {}
         
     def load_artifacts(self):
