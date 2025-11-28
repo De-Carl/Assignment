@@ -12,11 +12,11 @@ This folder is used to store a pre-trained machine learning model and all its au
 ### 3. `advisor/`
 
 The folder constitutes a typical Python machine learning project.
-(1) data_preprocessor.py: Convert the "raw" and possibly disorganized data into a clean and standardized format so that machine learning models can understand it.
-(2) model_trainer.py: Train machine learning models.
-(3) analysis.py: Conduct exploratory data analysis on the data.
-(4) app.py: Web server script.
-(5) requirements.txt: All the Python libraries required for the project and their specific versions.
+# (1) data_preprocessor.py: Convert the "raw" and possibly disorganized data into a clean and standardized format so that machine learning models can understand it.
+# (2) model_trainer.py: Train machine learning models.
+# (3) analysis.py: Conduct exploratory data analysis on the data.
+# (4) app.py: Web server script.
+# (5) requirements.txt: All the Python libraries required for the project and their specific versions.
 
 ### 4. `data_cleaning/`
 
